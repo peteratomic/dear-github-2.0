@@ -38,7 +38,6 @@ Signed,
 - Brian Gesiak, @modocache (Swift, LLVM)
 - Don Goodman-Wilson, @DEGoodmanWilson (board, Maintainerati; previously developer advocate, GitHub)
 - Jordan Harband, @ljharb (TC39 Editor; Opendoor engineer; npm package author)
-- Peter Harris, @peteratomic (@resonatecoop founder + board)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)
 - Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
@@ -301,6 +300,7 @@ Signed,
 - Sumana Harihareswara, @brainwane (Changeset Consulting)
 - Frédéric Harper, @fharper
 - Phillip Harrington, @phillipsharring (Software Developer)
+- Peter Harris, @peteratomic (@resonatecoop founder + board)
 - James Harton, @jimsynz (Software Engineer)
 - Elana Hashman, @ehashman (Open Source Initiative, Debian, Python Packaging Authority, Kubernetes)
 - Richo Healey, @richo (Computer Jerk)
