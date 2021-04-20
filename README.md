@@ -38,6 +38,7 @@ Signed,
 - Brian Gesiak, @modocache (Swift, LLVM)
 - Don Goodman-Wilson, @DEGoodmanWilson (board, Maintainerati; previously developer advocate, GitHub)
 - Jordan Harband, @ljharb (TC39 Editor; Opendoor engineer; npm package author)
+- Peter Harris, @peteratomic (@resonatecoop founder + board)
 - David Heinemeier Hansson, @dhh (Ruby on Rails)
 - Geoffrey Huntley, @geoffreyhuntley (ReactiveUI)
 - Vaidehi Joshi, @vaidehijoshi (basecs)
